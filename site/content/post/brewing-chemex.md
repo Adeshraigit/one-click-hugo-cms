@@ -4,7 +4,7 @@ date: 2023-04-01T03:35:02.302Z
 description: >-
   
   Node.js is an open-source server-side JavaScript runtime built on the Chrome V8 JavaScript engine.
-image: /img/blog-chemex.jpg
+image: img/image2.jpeg
 ---
 Node.js is a popular open-source, server-side JavaScript runtime environment built on the Chrome V8 JavaScript engine. It allows developers to use JavaScript to write command-line tools, server-side scripting, and event-driven server-side applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight, efficient, and perfect for building scalable and high-performance applications.
 
