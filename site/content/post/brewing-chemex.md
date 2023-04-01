@@ -1,26 +1,13 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: Node JS Workshop
+date: 2023-04-01T03:35:02.302Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  
+  Node.js is an open-source server-side JavaScript runtime built on the Chrome V8 JavaScript engine.
 image: /img/blog-chemex.jpg
 ---
+Node.js is a popular open-source, server-side JavaScript runtime environment built on the Chrome V8 JavaScript engine. It allows developers to use JavaScript to write command-line tools, server-side scripting, and event-driven server-side applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight, efficient, and perfect for building scalable and high-performance applications.
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+Node.js has a vast ecosystem of modules and packages that can be easily installed using the Node Package Manager (npm). It is widely used for building web applications, APIs, real-time chat applications, and more. It has gained significant popularity in recent years due to its ability to handle large amounts of data and its ease of use for developers who are already familiar with JavaScript.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
-
-## The little secrets of Chemex brewing
-
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Node.js has become an essential tool for modern web development, and it is used by many major companies such as Netflix, LinkedIn, and Uber. Its popularity and community support ensure that it will remain a relevant technology for the foreseeable future.
